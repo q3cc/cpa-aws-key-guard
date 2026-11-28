@@ -1,4 +1,4 @@
-31fb914974645d8ee7de70a2ee4ccaf92b7a6bf8527916a2d1ba208852cfb865   aws-key-guard_0.4.4_darwin_amd64.zip
-ba0c9335f5b2ca498f62f675c70656310d667dcca93b29c8e64b4d26c9bf0043   aws-key-guard_0.4.4_darwin_arm64.zip
-1df15ed2df07d4c532e28ae71156d3195a43186741ce3298d6a30fb960279e99   aws-key-guard_0.4.4_linux_amd64.zip
-4a56594848d2f69abbaed77e933a89aa4e7a37b3df3a45ab85e23fe023facba7   aws-key-guard_0.4.4_linux_arm64.zip
+cb093f59b21b650416e103ca53b8162c11109b8032e3a947ecd0d70d43d3b1a7   aws-key-guard_0.4.5_darwin_amd64.zip
+8538f5b8f01d7b33a96c303d18845bbba5b4651ae87749c4bc2896ddf8a83c72   aws-key-guard_0.4.5_darwin_arm64.zip
+d7c8ffaf1a4735caf70365f3fd712f9e0e1a9324d83d5c72c640482f8121444a   aws-key-guard_0.4.5_linux_amd64.zip
+cfab08f58cf699286497caee6a3767649ffdf89ebcfa652e72effc407ed4eb9e   aws-key-guard_0.4.5_linux_arm64.zip

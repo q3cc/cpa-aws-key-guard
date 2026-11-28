@@ -6,7 +6,7 @@
       "name": "AWS Key Guard",
       "description": "Adaptive AIMD per-key RPM rate limiter ('Too much usage'), passive invalid security token disabler, and auto-retry with 2-failures-then-switch-key orchestrator for AWS Bedrock / OpenAI-compatible pools.",
       "author": "q3cc",
-      "version": "0.4.4",
+      "version": "0.4.5",
       "repository": "https://github.com/q3cc/cpa-aws-key-guard",
       "tags": [
         "aws",
@@ -30,30 +30,30 @@
           {
             "goos": "linux",
             "goarch": "amd64",
-            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.4/aws-key-guard_0.4.4_linux_amd64.zip",
-            "sha256": "1df15ed2df07d4c532e28ae71156d3195a43186741ce3298d6a30fb960279e99",
-            "size": 3260371
+            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.5/aws-key-guard_0.4.5_linux_amd64.zip",
+            "sha256": "d7c8ffaf1a4735caf70365f3fd712f9e0e1a9324d83d5c72c640482f8121444a",
+            "size": 3262735
           },
           {
             "goos": "linux",
             "goarch": "arm64",
-            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.4/aws-key-guard_0.4.4_linux_arm64.zip",
-            "sha256": "4a56594848d2f69abbaed77e933a89aa4e7a37b3df3a45ab85e23fe023facba7",
-            "size": 2997265
+            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.5/aws-key-guard_0.4.5_linux_arm64.zip",
+            "sha256": "cfab08f58cf699286497caee6a3767649ffdf89ebcfa652e72effc407ed4eb9e",
+            "size": 2998647
           },
           {
             "goos": "darwin",
             "goarch": "arm64",
-            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.4/aws-key-guard_0.4.4_darwin_arm64.zip",
-            "sha256": "ba0c9335f5b2ca498f62f675c70656310d667dcca93b29c8e64b4d26c9bf0043",
-            "size": 2788219
+            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.5/aws-key-guard_0.4.5_darwin_arm64.zip",
+            "sha256": "8538f5b8f01d7b33a96c303d18845bbba5b4651ae87749c4bc2896ddf8a83c72",
+            "size": 2790391
           },
           {
             "goos": "darwin",
             "goarch": "amd64",
-            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.4/aws-key-guard_0.4.4_darwin_amd64.zip",
-            "sha256": "31fb914974645d8ee7de70a2ee4ccaf92b7a6bf8527916a2d1ba208852cfb865",
-            "size": 3034696
+            "url": "https://github.com/q3cc/cpa-aws-key-guard/releases/download/v0.4.5/aws-key-guard_0.4.5_darwin_amd64.zip",
+            "sha256": "cb093f59b21b650416e103ca53b8162c11109b8032e3a947ecd0d70d43d3b1a7",
+            "size": 3036266
           }
         ]
       }
